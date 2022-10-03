@@ -1,0 +1,49 @@
+{
+  "compras": [
+    {
+      "id": 2,
+      "item": "carne de porco",
+      "quantidade": "2"
+    },
+    {
+      "id": 5,
+      "item": "doce de leite",
+      "quantidade": 5
+    },
+    {
+      "item": "Cajuina",
+      "quantidade": 11,
+      "id": 7
+    },
+    {
+      "item": "batata",
+      "quantidade": 11,
+      "id": 8
+    },
+    {
+      "item": "Pipoca Doce",
+      "quantidade": 3,
+      "id": 11
+    },
+    {
+      "item": "Fanta Maracujá",
+      "quantidade": 5,
+      "id": 12
+    },
+    {
+      "item": "Fanta Cupuaçu ",
+      "quantidade": 2,
+      "id": 13
+    },
+    {
+      "item": "ração",
+      "quantidade": 21,
+      "id": 15
+    },
+    {
+      "item": "ypioca",
+      "quantidade": 1,
+      "id": 16
+    }
+  ]
+}
